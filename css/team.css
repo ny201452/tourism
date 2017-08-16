@@ -1,0 +1,23 @@
+@charset "utf-8";
+#tab .h1{
+	color: #333333;
+	margin-left: -2px;
+	background: url('../images/content3.png') no-repeat;
+} 
+#tab .h{
+	color: #4BABF7;
+	margin-left: 15px;
+	background: url('../images/content4.png') no-repeat;
+}
+#banner .top1 p{
+	color: #fff;
+	font-size: 14px;
+	line-height: 36px;
+}
+#nav p{
+	color: #333333;
+	font-size: 14px;
+	/* line-height: 36px; */
+	padding-left: 24px;
+	padding-top: 18px;
+}

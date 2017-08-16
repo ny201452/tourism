@@ -1,0 +1,62 @@
+@charset "utf-8";
+body{
+	background: #F7F7F7;
+}
+#center{
+	padding-top: 64px;
+	padding-left: 74px;
+	margin-bottom: 10px;
+}
+#center h2{
+	background: url('../images/sign.png') no-repeat 5px;
+	padding-left: 19px;
+	margin-bottom: 24px;
+}
+#center .test{
+	width: 808px;
+	height: 352px;
+	margin-left: -1px;
+	/* border: 1px solid #ccc; */
+	padding-top: 59px;
+	padding-left: 94px;
+  box-shadow:0 0 10px #ccc;
+}
+#center .test p{
+	font-size: 16px;
+	line-height: 50px;
+	font-weight: bold;
+	color: #333333;
+}
+#center .test p span{
+	color: #FF0000;
+}
+#center input{
+	width: 262px;
+	height: 31px;
+}
+#center .dl{
+	margin-left: -70px;
+	padding-left:100px;
+	width: 181px;
+	height: 49px;
+	padding-top:30px;
+}
+#center .dl a{
+	padding: 20px 100px ;
+	background: url('../images/btn5.png') no-repeat;
+}
+#footer{
+	padding: 0;
+	margin: 0;
+	width: 100%;
+	margin: 0 auto;
+	background: #F7F7F7;
+}
+#footer p{
+	padding-top: 50px;
+	padding-bottom: 10px;
+	color: #656565;
+	font-size: 12px;
+	line-height: 28px;
+	text-align: center;
+}

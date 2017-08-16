@@ -1,0 +1,119 @@
+@charset "utf-8";
+#nav p{
+	color: #333333;
+	font-size: 14px;
+	/* line-height: 36px; */
+	padding-left: 24px;
+	padding-top: 18px;
+}
+#banner .top1 p{
+	color: #fff;
+	font-size: 14px;
+	line-height: 36px;
+}
+#content{
+	height: 610px;
+}
+#content .co1,#content .co2,#content .co3,#content .co4{
+	height: 31px;
+	padding: 0 10px;
+	float: left;
+	margin-top: 18px;
+	margin-right: 8px;
+	font-size: 16px;
+	line-height: 36px;
+	margin-bottom: 18px;
+}
+ #content .co1{
+	color: #B9BFC5;
+	margin-left: 15px;
+	border: 1px solid #D1D1D1;
+}
+#content .co2,.co3,.co4{
+	color: #37A5FA;
+}
+#content .co2 span,#content .co3 span,#content .co4 span{
+	color: #FF0000;
+	font-size: 16px;
+}
+#content .co2{
+	border: 1px solid #FF9C71;
+}
+#content .co3,.co4{
+	border: 1px solid #4FACF6;
+}
+#content .p{
+	height: 80px;
+	/* margin-top: 100px; */
+}
+#tab{
+	width: 1000px;
+}
+#tab .p1{
+	height: 36px;
+}
+#tab .h,#tab .h1{
+	margin: 0;
+	font-size: 14px;
+	float: left;
+	width: 124px;
+	background: #ccc;
+	text-align: center;
+	height: 37px;
+	line-height: 37px;
+	margin-bottom: 30px;
+}
+#tab .h{
+	color: #333333;
+	margin-left: 15px;
+	background: url('../images/content3.png') no-repeat;
+}
+#tab .h1{
+	color: #4BABF7;
+	margin-left: -2px;
+	background: url('../images/content4.png') no-repeat;
+}
+#tab .co5{
+	width: 917px;
+	height: 485px;
+	border: 1px solid #DEDEDE;
+	margin-left: 16px;
+}
+#tab .co5 .text1{
+	padding-top: 42px;
+	font-size: 14px;
+}
+#tab .co5 p{
+	font-size: 14px;
+	color: #656565;
+	line-height: 36px;
+	padding-left: 80px;
+}
+#tab .co5 p span{
+	color: #000000;
+	font-size: 14px;
+}
+#tab .co5 .text{
+	color: #4BABF7;
+}
+#tab .co5 .tet{
+	font-weight: bold;
+	color: #fff;
+	width: 97px;
+	height: 27px;
+	padding: 8px 43px;
+	font-size: 14px;
+	line-height: 20px;
+	background: url('../images/content5.png') no-repeat;
+}
+#tab .sp{
+	font-size: 12px;
+	color: #FF0000;
+	padding: 6px 40px;
+	/* border: 1px dotted #FF0000; */
+	background: url('../images/content6.png') no-repeat;
+}
+#tab small{
+	color:#FF0000;
+	font-size: 12px;
+}
